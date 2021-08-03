@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6cf6dd6-57f1-4740-b79a-6a819a886715" name="Default Changelist" comment="" />
+    <list default="true" id="e6cf6dd6-57f1-4740-b79a-6a819a886715" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +48,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -59,8 +64,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1vctqfY0dXYjrwJ6K6Or1Zo3eDg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-08-2/src/main/java/com/kuang/dao" />
@@ -97,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mytestFile">
+  <component name="RunManager" selected="JUnit.mytestFile.testIf">
     <configuration name="mytestFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mytestFile" />
       <module name="mybatis-08-2" />
@@ -141,11 +148,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mytestFile.querytest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="mytestFile.testIf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis-08-2" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="mytestFile" />
-      <option name="METHOD_NAME" value="querytest" />
+      <option name="METHOD_NAME" value="testIf" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.mytestFile.testIf" />
         <item itemvalue="Application.mytestFile" />
         <item itemvalue="JUnit.IdUtils.test" />
         <item itemvalue="JUnit.Test.teste" />
         <item itemvalue="JUnit.myTest.query" />
-        <item itemvalue="JUnit.mytestFile.querytest" />
       </list>
     </recent_temporary>
   </component>
@@ -195,11 +202,22 @@
       <workItem from="1626940543116" duration="5641000" />
       <workItem from="1627403320959" duration="1243000" />
       <workItem from="1627890870100" duration="2029000" />
-      <workItem from="1627893459935" duration="17348000" />
+      <workItem from="1627893459935" duration="17659000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
