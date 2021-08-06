@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6cf6dd6-57f1-4740-b79a-6a819a886715" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mybatis-09/log/info.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-09/mybatis-09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-09/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-09/src/main/java/com/kuang/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-09/src/main/java/com/kuang/dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-09/src/main/java/com/kuang/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-09/src/main/java/com/kuang/utils/MybatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-09/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-09/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-09/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-09/src/test/java/myTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/4355fcc6aedb50dae7b7cbde801354cdeafa422c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/4355fcc6aedb50dae7b7cbde801354cdeafa422c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-08-2/log/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-08-2/log/info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-08-2/src/main/java/com/kuang/dao/BlogMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-08-2/src/main/java/com/kuang/dao/BlogMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-08-2/src/main/java/com/kuang/dao/BlogMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-08-2/src/main/java/com/kuang/dao/BlogMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-08-2/src/test/java/mytestFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-08-2/src/test/java/mytestFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-08-2/target/classes/com/kuang/dao/BlogMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-08-2/target/classes/com/kuang/dao/BlogMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-08-2/target/classes/com/kuang/dao/BlogMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-08-2/target/classes/com/kuang/dao/BlogMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-08-2/target/test-classes/mytestFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-08-2/target/test-classes/mytestFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +67,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -64,13 +88,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1vctqfY0dXYjrwJ6K6Or1Zo3eDg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-08-2/src/main/java/com/kuang/dao" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-09/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -81,15 +108,16 @@
       <recent name="$PROJECT_DIR$/mybatis-06/src/main/resources/com/kuang/dao" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kuang.utils" />
       <recent name="com.kuang.pojo" />
       <recent name="com.kuang.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mybatis-09/src/main/resources" />
       <recent name="$PROJECT_DIR$/mybatis-08-2/src/main/java/com/kuang/dao" />
       <recent name="$PROJECT_DIR$/mybatis-08-2/src/main/java" />
       <recent name="$PROJECT_DIR$/mybatis-08-2/src/main/resources" />
       <recent name="$PROJECT_DIR$/mybatis-08" />
-      <recent name="$PROJECT_DIR$/mybatis-08/src/main/java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -104,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.mytestFile.testIf">
+  <component name="RunManager" selected="JUnit.myTest.testQueryUserByID">
     <configuration name="mytestFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mytestFile" />
       <module name="mybatis-08-2" />
@@ -128,21 +156,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.teste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-07" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="METHOD_NAME" value="teste" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="myTest.query" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatis-08" />
+    <configuration name="myTest.testQueryUserByID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-09" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="myTest" />
-      <option name="METHOD_NAME" value="query" />
+      <option name="METHOD_NAME" value="testQueryUserByID" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,13 +176,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mytestFile.testquery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-08-2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="mytestFile" />
+      <option name="METHOD_NAME" value="testquery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.myTest.testQueryUserByID" />
+        <item itemvalue="JUnit.mytestFile.testquery" />
         <item itemvalue="JUnit.mytestFile.testIf" />
         <item itemvalue="Application.mytestFile" />
         <item itemvalue="JUnit.IdUtils.test" />
-        <item itemvalue="JUnit.Test.teste" />
-        <item itemvalue="JUnit.myTest.query" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +230,8 @@
       <workItem from="1626940543116" duration="5641000" />
       <workItem from="1627403320959" duration="1243000" />
       <workItem from="1627890870100" duration="2029000" />
-      <workItem from="1627893459935" duration="17659000" />
+      <workItem from="1627893459935" duration="26686000" />
+      <workItem from="1628169450663" duration="2405000" />
     </task>
     <servers />
   </component>
@@ -214,10 +243,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
